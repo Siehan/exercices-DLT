@@ -22,9 +22,13 @@ Pouvez vous nommer au moins une personne qui a ou aurait pu influencer directeme
 indirectement la création de Bitcoin par ses travaux (une personne qui n'a pas été nommée dans le cours)?
 
 * Hal Finney est une personnalité extrêmement importante de l'histoire du Bitcoin.
+
 Il fut l'un des premiers mineurs de la blockchain Bitcoin, en minant l'un des 70 premiers blocs.
+
 Il est également connu pour avoir été le premier destinataire d'une transaction Bitcoin, d'un montant de 10 BTC
-envoyé par Satoshi Nakatomo en personne.  Suite à cela, Hal Finney et Satoshi entretiendront des conversations par email, dans lesquelles Hal signalait
+envoyé par Satoshi Nakatomo en personne.
+
+Suite à cela, Hal Finney et Satoshi entretiendront des conversations par email, dans lesquelles Hal signalait
 des bugs qu'il trouvait sur Bitcoin et Satoshi les corrigeait.
 Dans l'éternelle quête sur l'identité de Satoshi Nakamoto, Hal Finney était pour certains un candidat de choix.
 Suite à sa disparition, le mystère reste entier. Cependant, Satoshi ou pas, Hal Finney restera l'une des figures paternelles du Bitcoin.
