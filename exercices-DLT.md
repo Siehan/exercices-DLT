@@ -1,5 +1,6 @@
-## Exercices Distributed Ledger Technology
+# Exercices Distributed Ledger Technology
 
+-----------------
 
 Un arbre de merkle nécessite une paire de hashes pour produire un nouveau hash parent.
 Il faut donc absolument que le nombre de transactions qui produiront le Merkle root soit pair.
@@ -12,7 +13,7 @@ Comment est géré le cas où le nombre de transactions dans le Block à valider
 Dans le réseau bitcoin, comment un nouveau noeud arrive-t-il à retrouver ses pairs et ainsi rejoindre le réseau ?
 Expliquer le processus avec vos propres mots.
 
-* Au lieu de compter sur une partie tierce pour négocier des échanges, les nœuds membres d’un réseau blockchain (les mineurs) utilisent un protocole de consensus, intégrant haches cryptographiques et signatures numériques pour assurer l’intégrité et l’authenticité des transactions.
+* Au lieu de compter sur une partie tierce pour négocier des échanges, les noeuds membres d’un réseau blockchain (les mineurs) utilisent un protocole de consensus, intégrant haches cryptographiques et signatures numériques pour assurer l’intégrité et l’authenticité des transactions.
 
 -----------------
 
@@ -36,12 +37,13 @@ Cette technologie désigne donc l'ensemble des méthodes permettant aux particip
 
 -----------------
 
-Quelle structure de données informatiques peut représenter le mieux cette chaine de Blocs: (https://en.wikipedia.org/wiki/List_of_data_structures) ?
+Quelle structure de données informatiques peut représenter le mieux cette chaine de Blocs: (<https://en.wikipedia.org/wiki/List_of_data_structures>) ?
 
-Un arbre de Merkle, ou arbre de hachage, est un concept mathématique inventé en 1979 par le cryptographe Ralph Merkle.
-Il s'agit d'un modèle de structure de données contenant un résumé d'information d'un volume de données, généralement grand.
+* Un arbre de Merkle, ou arbre de hachage, est un concept mathématique inventé en 1979 par le cryptographe Ralph Merkle. Il s'agit d'un modèle de structure de données contenant un résumé d'information d'un volume de données, généralement grand.
 
-Les arbres de Merkle se basent sur une fonction de hachage.
+* Les arbres de Merkle se basent sur une fonction de hachage.
+
+* Les fonctions de hachage (hash functions en anglais) sont des suites d’opérations mathématiques et cryptographiques produisant un résultat, que l’on appelle également empreinte ou signature. Elles servent généralement à sécuriser un transfert d’informations entre deux systèmes informatiques.
 
 -----------------
 
@@ -51,5 +53,4 @@ que dois-je modifier dans la Blockchain et que dois-je mettre en oeuvre pour que
 Est-ce possible selon vous ? : Non
 
 * Une fois qu'une transaction Bitcoin est effectuée et ajoutée à la blockchain, il est pratiquement impossible de l'inverser ou de la modifier.
-* De plus, les annulations ou les remboursements ne sont pas disponibles dans ce système, une fois la transaction effectuée.
-Ce qui génère un grand avantage dans divers domaines de l'économie et de la finance.
+* De plus, les annulations ou les remboursements ne sont pas disponibles dans ce système, une fois la transaction effectuée. Ce qui génère un grand avantage dans divers domaines de l'économie et de la finance.
